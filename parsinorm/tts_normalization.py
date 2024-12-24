@@ -79,9 +79,7 @@ class TTS_normalization:
         self.symbols = [
             self.percent,
             self.degree,
-            self.star,
             self.square,
-            self.add,
             self.delta,
             self.And,
         ]
