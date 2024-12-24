@@ -72,9 +72,7 @@ class TTS_normalization:
         ]
         self.percent = {'%': ' درصد '}
         self.degree = {'°': ' درجه '}
-        self.star = {'*': ' ستاره '}
-        self.square = {'#': ' مربع '}
-        self.add = {'+': ' پلاس '}
+        self.square = {'#': ' هشتگ '}
         self.And = {'&': ' and '}
         self.delta = {'Δ': ' delta '}
 
