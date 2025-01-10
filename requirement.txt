@@ -1,5 +1,5 @@
-num2fawords==1.1
-persian-tools==0.0.10
-urlextract==1.4.0
+num2fawords
+persian-tools
+urlextract
 nltk
 hazm
